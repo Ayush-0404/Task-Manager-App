@@ -1,7 +1,6 @@
 # KaamKaaj - Task Manager
 
 ![KaamKaaj Logo](https://img.shields.io/badge/KaamKaaj-Task%20Manager-purple)
-![License](https://img.shields.io/badge/license-MIT-blue)
 ![Version](https://img.shields.io/badge/version-1.0.0-green)
 
 > A beautiful, interactive Kanban-style task management application with real-time updates, drag and drop functionality, and a visually pleasing UI.
