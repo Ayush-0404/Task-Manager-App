@@ -15,7 +15,7 @@
 -  Light and dark mode for accesibility with beautiful UI
 -  Sound effects for better user experience
 -  Confetti celebration when tasks are completed
-- 📱 Responsive design for all devices
+- 📱 Minimilistic & responsive design for all devices following design process.
 
 ## Screenshots
 
