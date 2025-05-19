@@ -61,44 +61,42 @@ git clone https://github.com/yourusername/kaamkaaj.git
 cd kaamkaaj
 ```
 
-2. Install dependencies:
-
-```bash
-# Install frontend dependencies
-cd frontend
-npm install
-
-# Install backend dependencies (if applicable)
-cd ../backend
-npm install
-```
-
 ### Running the Application
 
-#### Development Mode
+#### Here are the commands to run the project on Windows:
+Backend Setup
 
-```bash
-# Start backend server (if applicable)
+```
+# Navigate to the backend directory
 cd backend
-npm run dev
 
-# Start frontend in a new terminal
+# Create a virtual environment
+python -m venv venv
+
+# Activate the virtual environment
+venv\Scripts\activate
+
+# Install requirements
+pip install -r requirements.txt
+
+# Run the backend server 
+python main.py  
+```
+Frontend Setup (in outher terminal)
+
+```
+# Navigate to the frontend directory
 cd frontend
+
+# Install dependencies
+npm install
+
+# Start the development server
 npm run dev
 ```
 
-The application will be available at `http://localhost:3000`
+The application will be available at `http://localhost:5173`
 
-#### Production Build
-
-```bash
-# Build frontend
-cd frontend
-npm run build
-
-# Serve the built frontend (optional)
-npm run serve
-```
 
 ## Project Structure
 
