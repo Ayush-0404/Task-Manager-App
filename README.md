@@ -64,8 +64,17 @@ cd kaamkaaj
 ### Running the Application
 
 #### Here are the commands to run the project on Windows:
+Open two terminals.
+
+1. Terminal 1 -
 Backend Setup
 
+```
+cd backend
+python -m uvicorn main:app --reload --host 0.0.0.0 --port 8000
+
+```
+OR 
 ```
 # Navigate to the backend directory
 cd backend
@@ -82,6 +91,7 @@ pip install -r requirements.txt
 # Run the backend server 
 python main.py  
 ```
+2. Terminal 2 -
 Frontend Setup (in outher terminal)
 
 ```
