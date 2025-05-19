@@ -57,8 +57,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/kaamkaaj.git
-cd kaamkaaj
+https://github.com/[your username]/Task-Manager-App.git
 ```
 
 ### Running the Application
