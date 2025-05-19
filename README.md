@@ -91,7 +91,7 @@ pip install -r requirements.txt
 python main.py  
 ```
 2. Terminal 2 -
-Frontend Setup (in outher terminal)
+Frontend Setup (in other terminal)
 
 ```
 # Navigate to the frontend directory
@@ -107,12 +107,14 @@ npm run dev
 The application will be available at `http://localhost:5173`
 
 #### Here are the commands to run the project on Linux:
+
 1. Install Uvicorn and dependencies in Linux
+
 Open a terminal and run:
 
 ```
 cd backend
-python -m pip install --upgrade pip
+python -m pip install --upgrade pip [Optional]
 python -m pip install -r requirements.txt
 
 ```
@@ -165,7 +167,13 @@ The application communicates with a backend API for data persistence. Here are t
 1. Drag a task card
 2. Drop it into the desired column
 
-### Filtering and Sorting
+
+### Editing & Deletition of tasks-
+
+1. Click on the three dot at top right of task.
+2. select delete to remove it & edit for changes
+
+### Filtering and Sorting (for better management of tasks)
 
 1. Click the "Filter" button in the header
 2. Select your preferred sorting method (by date, priority, etc.) or filter option
@@ -174,6 +182,7 @@ The application communicates with a backend API for data persistence. Here are t
 
 1. Click the settings icon in the top-right corner
 2. Toggle the "Dark Mode" switch
+3. There is also an option of a light version with no animation (could be enabled by toggling Animation switch)
 
 ##  Contributing
 
