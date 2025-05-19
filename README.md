@@ -25,9 +25,9 @@
     <td><strong>Dark Mode</strong></td>
   </tr>
   <tr>
-    <td><em>![image](https://github.com/user-attachments/assets/0b533235-0176-47ed-a619-d7fc91e06ec9)
+    <td><em>[image](https://github.com/user-attachments/assets/0b533235-0176-47ed-a619-d7fc91e06ec9)
 </em></td>
-    <td><em>![image](https://github.com/user-attachments/assets/220d78bb-ffc8-4114-9cf0-2ecfa391ee83)
+    <td><em>[image](https://github.com/user-attachments/assets/220d78bb-ffc8-4114-9cf0-2ecfa391ee83)
 </em></td>
   </tr>
 </table>
