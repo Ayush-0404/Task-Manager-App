@@ -107,6 +107,21 @@ npm run dev
 
 The application will be available at `http://localhost:5173`
 
+#### Here are the commands to run the project on Linux:
+1. Install Uvicorn and dependencies in Linux
+Open a terminal and run:
+
+```
+cd backend
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
+
+```
+Then start the script
+```
+cd ..
+bash start.sh
+```
 
 ## Project Structure
 
