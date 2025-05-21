@@ -25,7 +25,7 @@ const DEFAULT_SETTINGS: AppSettings = {
   soundEffects: true,
   darkMode: false,
   compactView: false,
-  freeformMode: false, // Hum isko disable kar denge, zaroorat nahi hai
+  freeformMode: false, //  disabled kar denge, zaroorat nahi hai -extra
 };
 
 const App = () => {
