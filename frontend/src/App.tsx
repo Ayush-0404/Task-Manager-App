@@ -49,7 +49,8 @@ const App = () => {
     const fetchData = async () => {
       try {
         setLoading(true);
-        const response = await axios.get('/api/board');
+        const apiUrl = import.meta.env.VITE_API_URL || "http://localhost:8000";
+        const response = await axios.get(`${apiUrl}/board`);
         
         // Initialize board with default settings if not present
         const boardData = {
@@ -438,4 +439,4 @@ const App = () => {
   );
 };
 
-export default App; 
+export default App;
