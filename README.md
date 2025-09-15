@@ -160,7 +160,7 @@ The application communicates with a backend API for data persistence. Here are t
 2. Fill in the task details (title, description, etc.)
 3. Click "Save" to add the task to the column
 
-### Moving Tasks
+### Moving Tasks - Simple
 
 1. Drag a task card
 2. Drop it into the desired column
