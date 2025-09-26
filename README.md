@@ -182,7 +182,7 @@ The application communicates with a backend API for data persistence. Here are t
 2. Toggle the "Dark Mode" switch
 3. There is also an option of a light version with no animation (could be enabled by toggling Animation switch)
 
-##  Contributing
+##  Contributing -
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
