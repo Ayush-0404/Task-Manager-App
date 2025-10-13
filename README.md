@@ -15,7 +15,7 @@
 -  Light and dark mode for accesibility with beautiful UI
 -  Sound effects for better user experience
 -  Confetti celebration when tasks are completed
-- 📱 Minimilistic & responsive design for all devices following design process.
+- 📱 Minimilistic & responsive design for all devices following design process
 
 ## Screenshots
 
@@ -102,7 +102,7 @@ npm install
 npm run dev
 ```
 
-The application will be available at `http://localhost:5173`
+The application will be available at  - `http://localhost:5173`
 
 #### Here are the commands to run the project on Linux:
 
