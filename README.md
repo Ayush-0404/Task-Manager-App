@@ -63,7 +63,7 @@ https://github.com/[your username]/Task-Manager-App.git
 #### Here are the commands to run the project on Windows:
 Open two terminals.
 
-1. Terminal 1 -
+1. Terminal 1 
 Backend Setup
 
 ```
