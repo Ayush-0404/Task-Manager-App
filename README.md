@@ -176,7 +176,7 @@ The application communicates with a backend API for data persistence. Here are t
 1. Click the "Filter" button in the header
 2. Select your preferred sorting method (by date, priority, etc.) or filter option
 
-### Changing Theme -
+### Changing Theme 
 
 1. Click the settings icon in the top-right corner
 2. Toggle the "Dark Mode" switch
