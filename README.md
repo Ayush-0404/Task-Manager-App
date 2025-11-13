@@ -152,7 +152,7 @@ The application communicates with a backend API for data persistence. Here are t
 - **PATCH /api/tasks/:id** - Updates an existing task
 - **DELETE /api/tasks/:id** - Deletes a task
 
-## 📖 How to Use
+## 📖 How to Use -
 
 ### Adding Tasks
 
