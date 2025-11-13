@@ -166,7 +166,7 @@ The application communicates with a backend API for data persistence. Here are t
 2. Drop it into the desired column
 
 
-### Editing & Deletition of tasks -
+### Editing & Deletition of tasks 
 
 1. Click on the three dot at top right of task.
 2. select delete to remove it & edit for changes
