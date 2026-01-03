@@ -43,7 +43,7 @@
   - use-sound (for sound effects)
   - uuid (for unique identifiers)
 
-##  Getting Started 
+##  Getting Started -
 
 ### Prerequisites
 
