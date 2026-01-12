@@ -17,7 +17,7 @@
 -  Confetti celebration when tasks are completed
 - 📱 Minimilistic & responsive design for all devices following design process
 
-## Screenshots -
+## Screenshots
 
 <table>
   <tr>
