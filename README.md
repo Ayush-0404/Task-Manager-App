@@ -106,7 +106,7 @@ The application will be available at  - `http://localhost:5173`
 
 #### Here are the commands to run the project on Linux:
 
-1. Install Uvicorn and dependencies in Linux
+1. Install Uvicorn and dependencies in Linux -
 
 Open a terminal and run:
 
