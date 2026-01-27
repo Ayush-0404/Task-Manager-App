@@ -5,7 +5,7 @@
 
 > A beautiful, interactive Kanban-style task management application with real-time updates, drag and drop functionality, and a visually pleasing UI.
 
-## ✨ Features
+## ✨ Features -
 
 -  Kanban board with To Do, In Progress, and Done columns
 -  Task prioritization (High, Medium, Low) with visual indicators
