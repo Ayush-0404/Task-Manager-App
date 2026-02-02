@@ -58,7 +58,7 @@
 https://github.com/[your username]/Task-Manager-App.git
 ```
 
-### Running the Application - 
+### Running the Application 
 
 #### Here are the commands to run the project on Windows:
 Open two terminals.
