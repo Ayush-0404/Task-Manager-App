@@ -88,7 +88,7 @@ pip install -r requirements.txt
 # Run the backend server 
 python main.py  
 ```
-2. Terminal 2 -
+2. Terminal 2 
 Frontend Setup (in other terminal)
 
 ```
