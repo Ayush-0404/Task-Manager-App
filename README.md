@@ -45,7 +45,7 @@
 
 ##  Getting Started -
 
-### Prerequisites
+### Prerequisites -
 
 - Node.js (v14.0.0 or higher)
 - npm (v6.0.0 or higher)
